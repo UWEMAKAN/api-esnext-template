@@ -1,4 +1,4 @@
-# HACKERBAY MICROSERVICE
+# API ESNEXT TEMPLATE
 
 ## Run the following commands
 ### Install Dependencies
@@ -15,4 +15,3 @@
 * npm run test:watch
 ### Run tests and generate coverage report
 * npm run test:cover
-
